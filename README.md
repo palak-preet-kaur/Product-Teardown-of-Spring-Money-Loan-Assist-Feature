@@ -1,8 +1,6 @@
 # Product-Teardown-of-Spring-Money-Loan-Assist-Feature
 
-- In-depth User Research: Engaged with over 25 stakeholders to develop comprehensive user personas, ensuring solutions were
-precisely tailored to meet user needs and expectations.
-- User-Centric Innovation- Applied user research to develop user-centric solutions, crafting wireframes, and UX designs to
-optimize transparency and financial control.
-- Wireframing: Developed wireframes to conceptualize and refine the Loan Assist feature for the Spring Money app,using
-Figma
+- Analyzed user feedback to improve the loan application process in the Spring Money app, enhancing user satisfaction and
+increasing conversion rates.
+- Created user personas and journey maps to identify pain points, contributing to a more intuitive and user-friendly experience.
+- Designed wireframes and developed UI/UX improvements, leading to a more seamless and engaging user interface
